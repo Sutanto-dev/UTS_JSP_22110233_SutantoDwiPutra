@@ -38,8 +38,14 @@ Semua data disimpan **sementara menggunakan session**, menjadikannya cocok sebag
 ## 🖼️ Tampilan Aplikasi
 
 > Contoh output halaman:
+<img width="1440" alt="Screenshot 2025-05-16 at 18 57 40" src="https://github.com/user-attachments/assets/d511399c-a107-474e-bd0b-d727725ae4a9" />
+<img width="1440" alt="Screenshot 2025-05-16 at 18 57 51" src="https://github.com/user-attachments/assets/d109247a-5881-44f4-a974-206d73f0e965" />
+<img width="1440" alt="Screenshot 2025-05-16 at 18 58 16" src="https://github.com/user-attachments/assets/8e680e9a-3a3b-44c0-b6aa-b17f7ffc4035" />
+<img width="1440" alt="Screenshot 2025-05-16 at 18 58 29" src="https://github.com/user-attachments/assets/66ead903-1982-4be7-a9ca-70ef2687a0a4" />
+<img width="1440" alt="Screenshot 2025-05-16 at 18 58 54" src="https://github.com/user-attachments/assets/7a18e25c-ab77-4887-afcc-5303e2cc9c92" />
+<img width="1440" alt="Screenshot 2025-05-16 at 18 59 05" src="https://github.com/user-attachments/assets/249adb59-2fa0-494a-8e5b-8a66f09cd910" />
+<img width="1440" alt="Screenshot 2025-05-16 at 19 00 00" src="https://github.com/user-attachments/assets/ec2b04ac-639b-4a52-8e20-86c7277822f2" />
 
-<img width="100%" src="https://github.com/user-attachments/assets/a7d539ea-5d22-4eb7-acdd-5f408e8c63ac" alt="Screenshot aplikasi">
 
 ## 📁 Struktur Project
 📂 UTS_JSP_22110233_SutantoDwiPutra
@@ -49,14 +55,32 @@ Semua data disimpan **sementara menggunakan session**, menjadikannya cocok sebag
 
 
 ---
+⚙️ Cara Menjalankan
+Prasyarat
+Java Development Kit (JDK) 8 atau lebih tinggi
 
-## ⚙️ Cara Menjalankan
+Apache Tomcat 8.5 atau lebih tinggi
 
-1. Pastikan **JDK** dan **Apache Tomcat** sudah terinstal
-2. Clone atau copy folder ini ke direktori `webapps` milik **Tomcat**
-3. Jalankan server Tomcat
-4. Akses melalui browser:
-http://localhost:8080/UTS_JavaLanjutan
+Browser modern (Chrome, Firefox, Edge)
+
+Pastikan JDK dan Tomcat sudah terinstal
+
+Copy folder project ke direktori webapps Tomcat, misal:
+C:\apache-tomcat\webapps\UTS_JSP_22110233_SutantoDwiPutra
+
+Jalankan Tomcat:
+
+Buka Command Prompt
+
+Masuk ke folder bin Tomcat:
+cd C:\apache-tomcat\bin
+
+Buka browser dan akses:
+
+http://localhost:8080/UTS_JSP_22110233_SutantoDwiPutra
+
+Untuk menghentikan server, jalankan:
+shutdown.bat
 
 
 ---
@@ -81,7 +105,7 @@ http://localhost:8080/UTS_JavaLanjutan
 ## 👨‍💻 Tentang Pengembang
 
 **Sutanto Dwi Putra**  
-📚 Mahasiswa – Teknik Informatika  
+📚 Teknik Informatika  
 🆔 NIM: 22110233  
 
 ---
