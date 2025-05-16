@@ -49,9 +49,18 @@ Semua data disimpan **sementara menggunakan session**, menjadikannya cocok sebag
 
 ## 📁 Struktur Project
 📂 UTS_JSP_22110233_SutantoDwiPutra
-├── index.jsp → Halaman utama (daftar film)
-├── formPesan.jsp → Formulir pemesanan tiket
-├── struk.jsp → Hasil pemesanan / struk
+├── build/
+│   └── web/          # Hasil build aplikasi yang dijalankan di server
+├── nbproject/        # Konfigurasi NetBeans project
+├── src/
+│   └── conf/         # File konfigurasi
+├── web/              # File aplikasi web
+│   ├── index.jsp     # Halaman utama daftar film
+│   ├── formPesan.jsp # Form pemesanan tiket
+│   ├── struk.jsp     # Halaman konfirmasi pemesanan
+│   └── WEB-INF/      # Konfigurasi aplikasi web
+├── README.md         # Dokumentasi
+└── build.xml         # File build untuk Apache Ant
 
 
 ---
