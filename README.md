@@ -40,14 +40,18 @@ Semua data disimpan **sementara menggunakan session**, menjadikannya cocok sebag
 > Contoh output halaman:
 ## Halaman Utama
 <img width="1440" alt="Screenshot 2025-05-16 at 18 57 40" src="https://github.com/user-attachments/assets/d511399c-a107-474e-bd0b-d727725ae4a9" />
+
 ## Daftar Film
 <img width="1440" alt="Screenshot 2025-05-16 at 18 57 51" src="https://github.com/user-attachments/assets/d109247a-5881-44f4-a974-206d73f0e965" />
 <img width="1440" alt="Screenshot 2025-05-16 at 18 58 16" src="https://github.com/user-attachments/assets/8e680e9a-3a3b-44c0-b6aa-b17f7ffc4035" />
+
 ## Detail Film
 <img width="1440" alt="Screenshot 2025-05-16 at 18 58 29" src="https://github.com/user-attachments/assets/66ead903-1982-4be7-a9ca-70ef2687a0a4" />
+
 ## Form Pemesanan
 <img width="1440" alt="Screenshot 2025-05-16 at 18 58 54" src="https://github.com/user-attachments/assets/7a18e25c-ab77-4887-afcc-5303e2cc9c92" />
 <img width="1440" alt="Screenshot 2025-05-16 at 18 59 05" src="https://github.com/user-attachments/assets/249adb59-2fa0-494a-8e5b-8a66f09cd910" />
+
 ## Struk Pemesanan
 <img width="1440" alt="Screenshot 2025-05-16 at 19 00 00" src="https://github.com/user-attachments/assets/ec2b04ac-639b-4a52-8e20-86c7277822f2" />
 
